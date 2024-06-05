@@ -1,0 +1,10 @@
+myenv/
+
+_pycahce_/
+
+*.pyc
+#comment
+*.pyo
+
+.env/
+.venv
